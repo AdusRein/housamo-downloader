@@ -1,9 +1,9 @@
-¦w¸Ë¤èªk:
+å®‰è£æ–¹æ³•:
 
-1. ¦w¸Ë nodejs
+1. å®‰è£ nodejs
 2. npm install
 
 
-¨Ï¥Î¤èªk:
+ä½¿ç”¨æ–¹æ³•:
 
 1. npm start
