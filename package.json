@@ -1,0 +1,13 @@
+{
+  "name": "housamo-downloader",
+  "version": "1.0.0",
+  "main": "loadData.js",
+  "scripts": {
+    "start": "node loadData.js"
+  },
+  "dependencies": {
+    "async": "^2.4.0",
+    "mkdirp": "^0.5.1",
+    "request": "^2.81.0"
+  }
+}
